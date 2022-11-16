@@ -1,0 +1,1 @@
+"use strict";var calculadora=new CalcController;
