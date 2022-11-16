@@ -1,1 +1,1 @@
-"use strict";var calculadora=new CalcController;
+"use strict";window.calculator=new CalcController;
